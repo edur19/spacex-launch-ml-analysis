@@ -35,3 +35,8 @@ An interactive dashboard was developed using Plotly Dash to visualize launch per
 - EDA notebooks
 - Machine learning workflows
 - Interactive dashboard application
+
+<img width="1328" height="738" alt="image" src="https://github.com/user-attachments/assets/cf282de7-a07d-4e79-b218-fc8a7a3d6a2c" />
+
+<img width="1294" height="627" alt="image" src="https://github.com/user-attachments/assets/48790f71-0b7d-46f6-85ec-783a55675a0f" />
+
